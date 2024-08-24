@@ -1,0 +1,18 @@
+{
+  "name": "mongotube",
+  "version": "1.0.0",
+  "description": "Learnning mongoDb with myTube project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shivam mistrY",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
